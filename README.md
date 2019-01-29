@@ -1,6 +1,6 @@
 # Vida alemana
 
-Este repositorio contiene información útil sobre la vida en Alemania, principalmente en Berlín y Munich: guías, consejos, respuestas a las preguntas más frecuentes. La audiencia inicial principal: especialistas en IT (programadores, administradores de sistemas, etc.) que se mudaron a Alemania para trabajar en el programa Blue Card de la CEI, principalmente de Ucrania y Rusia.
+Este repositorio contiene información útil sobre la vida en Alemania, principalmente en Berlín y Munich: guías, consejos, respuestas a las preguntas más frecuentes. La audiencia inicial principal: especialistas en IT (programadores, administradores de sistemas, etc.) que se mudaron a Alemania para trabajar en el programa Blue Card de la CEI.
 
 Será muy útil si comparte su valiosa y útil experiencia, corrige información obsoleta o la reporta. Esto se puede hacer directamente en la interfaz de GitHub: hay un botón de edición en la parte superior de cada página (el icono parece un lápiz). Cuando hace clic en él, su clon personal de este repositorio se crea automáticamente. A continuación, puede editar los archivos en su clon. Cuando esté listo, envíe una solicitud de extracción al repositorio principal. Todo se hace directamente en el sitio, la consola u otros programas no están obligados a usar.
 
