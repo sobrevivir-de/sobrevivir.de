@@ -1,9 +1,18 @@
 {
+  "name": "sobrevivir.de",
+  "version": "0.1.0",
+  "description": "Información útil sobre la vida en Alemania",
+  "main": "index.js",
+  "repository": "git@github.com:sobrevivir-de/sobrevivir.de.git",
+  "author": "Aleksey Razbakov <aleksey@razbakov.com>",
+  "license": "MIT",
   "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build"
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "serve": "vitepress serve ."
   },
   "devDependencies": {
-    "vuepress": "^0.14.8"
+    "glob": "^7.2.0",
+    "vitepress": "^0.20.0"
   }
 }
